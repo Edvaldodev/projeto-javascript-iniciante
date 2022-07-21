@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(10, 150, 185);
+    font: normal 15pt Arial;
+
+}
+header{
+    text-align: center;
+    box-shadow: 1px 1px 5px rgb(90, 73, 73);
+    border-radius: 13px;
+    width: 500px;
+    margin: auto;
+}
+select#seltab{
+    width: 150px;
+}
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 13px;
+    box-shadow: 3px 3px 10px black;
+    margin: auto;
+    width: 500px;
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+
+}
